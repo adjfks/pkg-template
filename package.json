@@ -1,0 +1,22 @@
+{
+  "name": "xxx",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bin.js",
+  "bin": "bin.js",
+  "files": [
+    "bin.js"
+  ],
+  "type": "module",
+  "scripts": {
+    "bin": "bin.js"
+  },
+  "keywords": [],
+  "author": "adjfks",
+  "license": "MIT",
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adjfks/xxx.git"
+  }
+}
